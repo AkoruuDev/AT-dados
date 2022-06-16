@@ -1,6 +1,6 @@
 # Area de Testes
 ## Dados D6
-Site que mostra na tela um dado de 1 à 6 de acordo com o que o usuário pedir no prompt
+Site que mostra na tela um dado de 1 à 6 de acordo com o que o usuário pedir no prompt <p>
 Nivel: Rank C
 
 <p>
